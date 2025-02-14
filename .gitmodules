@@ -1,4 +1,4 @@
 [submodule "third-party/lapack"]
 	path = third-party/lapack
-    url = https://github.com/faasm/lapack
+    url = https://github.com/ScalaSSC/lapack
     branch = faasm
